@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ahsan Raza 👋
 
-<!--
-**M-AHSAN-RAZA-125/M-AHSAN-RAZA-125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | JavaScript | React
 
-Here are some ideas to get you started:
+I build modern, responsive, and user-friendly websites with a focus on clean design and smooth user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Frontend Developer
+- ⚛️ Building projects with React
+- 🌱 Improving my JavaScript & React skills
+- 🎨 Interested in modern UI & responsive web design
+- 🛠️ Building real-world web projects
+- 🤖 Using AI-assisted development to learn, build, and improve projects
+
+## 💻 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Tailwind CSS
+- Git & GitHub
+- Responsive Web Design
+
+## 📌 Featured Projects
+
+- 💎 Jewelry Website
+- ⚛️ React Projects
+- 🧩 JavaScript & DOM Projects
+- 🌐 Landing Page Projects
+
+## 🎯 Current Focus
+
+Improving my JavaScript and React skills while building modern, responsive web applications and real-world projects.
+
+## 🤝 Let's Connect
+
+Open to learning, collaboration, and freelance web development projects.
+
+---
+
+⭐ Thanks for visiting my profile!
